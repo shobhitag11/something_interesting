@@ -1,0 +1,1 @@
+I used face_recognition-env from e:\pythonenvs
